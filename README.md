@@ -1,5 +1,5 @@
 # robotics-toolbox-arduino
-An open-source C++ library for multi-axis robotic arm control on Arduino and compatible microcontroller boards. Inspired by the Robotics Toolbox for MATLAB created by Peter Corke.
+A library for multi-axis robotic arm control on Arduino and compatible microcontroller boards. Inspired by the Robotics Toolbox for MATLAB created by Peter Corke.
 
 Developed as a Bachelor's thesis project at the Universitat Politècnica de València (UPV).
 
